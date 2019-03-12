@@ -1,0 +1,13 @@
+.thumbnail {
+	height:350px;
+}
+.shoesPic {
+	height: 300px;
+	background-size: cover; 
+	background-repeat: no-repeat; 
+	background-position : center;	
+}
+img {
+	height:100%;
+	width:100%;
+}
